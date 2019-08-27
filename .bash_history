@@ -192,3 +192,195 @@ git
 clear
 
 
+cd Ops1
+ls
+git status
+git add Proj
+git add . file1
+git add . file.txt
+git add file1.txt
+git add file2.txt
+clear
+list
+ls
+git init DevOps1
+git status
+clear
+git mkdir
+mkdir
+mkdir DevOps1
+mkdir Ops1
+git init
+git add Ops1
+ls
+git commit -m "Ops1 first"
+clear
+git -A 
+git add -A
+ls
+git add "Ops1"
+git status
+cleasr
+clear
+git stsus
+git status
+clear
+git commit -a -m "Ops1"
+git reverse
+git reverse commit
+git pull orion Readme.txt
+clear
+git ls
+ls
+git branch
+git add branch firstbranch
+cd Ops1
+git branch
+git add branch Firstbranch
+clear
+git init
+git add File1
+git add "file.csv"
+git add 
+git add >> file1.txt
+git add . file1.txt
+git add  .file2.txt
+git add . file3.csv
+clear
+ls
+status
+git status
+git log
+git commit -m "file1"
+clear
+git log
+git branch
+git show
+clear
+git branch FirstBranch
+ls
+git branc
+git branch
+git checkout firdtbranch
+git checkout FirstBranch
+git add Ops2.txt
+git add. ops2.txt
+git add . "Ops2.txt"
+git add . Ops2
+git add
+git add .ops
+clear
+git add ops.txt
+git add .ops2.txt
+clear
+cls
+clear
+cd Ops1
+ls
+git status
+git add -A 
+ls
+git status
+git commit -a -m "second and third filename"
+git config
+clear
+ls
+git status
+git branch
+git checkout FirstBranch
+ls
+git status
+git commit -a -m "file1"
+ls
+git status
+git commit -m "file1"
+clear
+git log
+git checkout master
+ls
+git commit -a -m 
+clear
+ls
+git status
+git branch
+git checkout FirstBranch
+ls
+git add .
+git add .file1.txt
+ls
+git commit -m "file1.txt"
+git log
+rebase
+git rebase
+ls
+clear
+cd Ops1
+git branch
+git checkout branch
+gitclear
+clear
+git checkout master
+ls
+git log
+git commit -a -m "all files"
+git log
+git re
+clear
+git log
+git reverse 29bf97f60442a0f46bc6ae2848f89e50e0042631
+clear
+ls
+git status
+git branch
+cd DP
+cleart
+cd Op1
+cd Ops1
+git remote add origon "https://github.com/anjineulu/gitops1.git"
+git status
+cd git repo
+cd gitrepo
+git commit -m "second commit"
+git add . readme.txt
+git add . "Readme.txt"
+git status
+git commit -m "second commit"
+git log
+ar
+clear
+git remote add orion "https://github.com/anjineulu/SampleRepo.git"
+git remote push "https://github.com/anjineulu/SampleRepo.git"
+clear
+git push orion "https://github.com/anjineulu/SampleRepo.git"
+git push orion master
+cd OI
+clear
+cd DP
+ls
+git commit -m "firstcommit"
+git add . filename
+clear
+git commit -a -m "firstcommit"
+git status
+git log
+cd Ops1
+cd ops1
+cd Op1
+cd Ops1
+clear
+git push orion "https://github.com/anjineulu/gitops1.git"
+git remote push orion "https://github.com/anjineulu/gitops1.git"
+cd --DP
+git DP
+cd DP
+git remote add origin "https://github.com/anjineulu/SampleRepo.git"
+git status
+clear
+cd ..
+cd gitrepo
+ls
+cd DP
+ls
+git log
+git commit -a "secondcommmit1"
+git commit -a -m "second commit1'

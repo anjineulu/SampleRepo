@@ -1,3 +1,6 @@
 2019/08/27-05:53:19.048 e74 Reusing MANIFEST Session Storage/MANIFEST-000001
 2019/08/27-05:53:19.048 e74 Recovering log #3
 2019/08/27-05:53:19.048 e74 Reusing old log Session Storage/000003.log 
+2019/08/27-07:24:50.637 1e96 Level-0 table #5: started
+2019/08/27-07:24:50.642 1e96 Level-0 table #5: 16172 bytes OK
+2019/08/27-07:24:50.644 1e96 Delete type=0 #3
