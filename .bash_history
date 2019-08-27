@@ -128,3 +128,67 @@ clear
 curl wgetip.com
 curl
 grep
+ls
+cd Ops
+cd ops1
+cd ops
+git status
+clear
+cd..
+cd
+cd ops
+cd ops1
+mkdir ops
+cd ops
+git add file1.txt
+git add . file.jmx
+ls
+git status
+clear
+git log
+git branch
+cd ..
+cd ops1
+cd Ops1
+ls
+git branch 
+git checkout master
+ls
+git commit -a "fist commit"
+git commit -a -m "firstcommit'
+
+
+
+clear
+
+git commit -a -m "firstcommit"
+
+
+
+
+
+
+
+
+
+
+
+
+cleat
+exit
+ls
+cd Ops1
+git remote add origin "https://github.com/anjineulu/gitops1.git"
+git push origin master
+git push --help
+cd DP
+ls
+git branch
+git sttaus
+git status
+clear
+git commit -m "first commit'
+git
+clear
+
+
