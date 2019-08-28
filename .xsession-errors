@@ -263,3 +263,70 @@ Opening in existing browser session.
 (xfce4-terminal:2274): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
 
 (xfce4-terminal:2274): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[8583:8583:0827/073822.448600:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(xfce4-terminal:8417): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+gpg-agent[1946]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1946]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1946]: SIGTERM received - shutting down ...
+gpg-agent[1946]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Wed Aug 28 15:47:07 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1917]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1918]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1910): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1910): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:10, Does it exist? Permissions issue?
+
+(xfsettingsd:1931): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1920): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 1930: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:1929): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2680:2680:0828/155450.139492:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2679:2679:0828/155450.142082:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2766:2766:0828/155450.415336:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2618:2646:0828/155451.309268:ERROR:browser_process_sub_thread.cc(217)] Waited 9 ms for network service
+Opening in existing browser session.
+[2714:2750:0828/155451.366161:ERROR:browser_process_sub_thread.cc(217)] Waited 5 ms for network service
+Opening in existing browser session.
+
+(xfce4-terminal:2087): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+Xsession: X session started for ubuntu at Wed Aug 28 16:00:50 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :11.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[3152]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:3145): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:3145): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:11, Does it exist? Permissions issue?
+
+(xfsettingsd:3163): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:3155): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 3166: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:3165): nm-applet-WARNING **: GDBus.Error:org.freedesktop.NetworkManager.AgentManager.PermissionDenied: An agent with this ID is already registered for this user.
+
+(nm-applet:3165): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed

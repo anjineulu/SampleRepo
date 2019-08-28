@@ -384,3 +384,34 @@ ls
 git log
 git commit -a "secondcommmit1"
 git commit -a -m "second commit1'
+cd DP
+ls
+git add -A
+git add . -A
+ls
+clear
+git status
+clear
+git commit -a -m "second commit"
+clear
+git remote push origin "https://github.com/anjineulu/gitops1.git"
+git remote branch -t master 
+clear
+git --help
+clear
+git log
+git status
+clear
+git branch
+git remote add origin "https://github.com/anjineulu/SampleRepo.git"
+git remote add orion "https://github.com/anjineulu/gitops1.git"
+git remote add origin "https://github.com/anjineulu/gitops1.git"
+git remote push origin "https://github.com/anjineulu/gitops1.git"
+git remote add master push "https://github.com/anjineulu/gitops1.git"
+clear
+git push origin master
+git pull
+git pull origin "https://github.com/anjineulu/gitops1.git"
+git pull origin "https://github.com/anjineulu/gitops1.git"
+clear
+git pull origin "https://github.com/anjineulu/SampleRepo.git"
