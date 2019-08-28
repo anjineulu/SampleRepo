@@ -330,3 +330,40 @@ This is normally a bug in some application using the D-Bus library.
 (nm-applet:3165): nm-applet-WARNING **: GDBus.Error:org.freedesktop.NetworkManager.AgentManager.PermissionDenied: An agent with this ID is already registered for this user.
 
 (nm-applet:3165): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+[3654:3673:0828/160829.653637:ERROR:browser_process_sub_thread.cc(217)] Waited 3 ms for network service
+Opening in existing browser session.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3888:3907:0828/160842.134150:ERROR:browser_process_sub_thread.cc(217)] Waited 4 ms for network service
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3999:3999:0828/160847.250388:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3966:3985:0828/160847.277350:ERROR:browser_process_sub_thread.cc(217)] Waited 38 ms for network service
+Opening in existing browser session.
+[4053:4072:0828/160855.983780:ERROR:browser_process_sub_thread.cc(217)] Waited 1 ms for network service
+Opening in existing browser session.
+[4127:4146:0828/160857.404072:ERROR:browser_process_sub_thread.cc(217)] Waited 3 ms for network service
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[4234:4234:0828/160858.136101:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[4191:4213:0828/160858.138344:ERROR:browser_process_sub_thread.cc(217)] Waited 7 ms for network service
+Opening in existing browser session.
+Opening in existing browser session.
+[4384:4403:0828/160911.416390:ERROR:browser_process_sub_thread.cc(217)] Waited 3 ms for network service
+Opening in existing browser session.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[4602:4621:0828/160919.977402:ERROR:browser_process_sub_thread.cc(217)] Waited 7 ms for network service
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Opening in existing browser session.
+
+(xfce4-terminal:5483): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

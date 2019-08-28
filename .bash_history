@@ -415,3 +415,45 @@ git pull origin "https://github.com/anjineulu/gitops1.git"
 git pull origin "https://github.com/anjineulu/gitops1.git"
 clear
 git pull origin "https://github.com/anjineulu/SampleRepo.git"
+git init
+clear
+mkdir gitrepo1
+cd gitrepo1
+ls
+git echo readme.tx1
+git add readme1.txt
+ls
+clear
+ls
+git status
+clear
+git add -edu1.txt
+git add .
+ls
+git status
+clear
+git add -A
+ls
+git status
+clear
+git commit -a -m "first commit togeher"
+clear
+ls
+git log
+clear
+git branch
+git push master
+clear
+cd gitrepo1
+cls
+ls
+git log
+ar
+clear
+git remote add origin https://github.com/anjineulu/gitrepo1.git
+git push -u origin master
+clear
+git commit -a -m 
+clear
+git push origin master
+git push --help
