@@ -1,6 +1,6 @@
-[20190828-16:00:50] [CORE ] main: app started pid 3088(0x00000c10)
-[20190828-16:00:50] [INFO ] main: DISPLAY env var set to :11.0
-[20190828-16:00:50] [INFO ] main: using DISPLAY 11
-[20190828-16:00:50] [INFO ] channel_thread_loop: thread start
-[20190828-16:00:51] [INFO ] Socket 12: AF_UNIX connection received
-[20190828-16:00:51] [INFO ] send_init_response_message:
+[20190830-08:24:15] [CORE ] main: app started pid 2224(0x000008b0)
+[20190830-08:24:15] [INFO ] main: DISPLAY env var set to :11.0
+[20190830-08:24:15] [INFO ] main: using DISPLAY 11
+[20190830-08:24:15] [INFO ] channel_thread_loop: thread start
+[20190830-08:24:16] [INFO ] Socket 12: AF_UNIX connection received
+[20190830-08:24:16] [INFO ] send_init_response_message:

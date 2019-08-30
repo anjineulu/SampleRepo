@@ -3,20 +3,6 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/ubuntu/gitrepo/Readme.txt" added="2019-08-27T07:19:33Z" modified="2019-08-28T16:19:03Z" visited="2019-08-27T07:19:33Z">
-    <desc>Charset: UTF-8</desc>
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
-        <bookmark:groups>
-          <bookmark:group>Mousepad</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2019-08-28T16:19:03Z" count="2"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
   <bookmark href="file:///home/ubuntu/Desktop/edu_proj1/edu1.txt" added="2019-08-28T15:50:31Z" modified="2019-08-28T15:50:31Z" visited="2019-08-28T15:50:31Z">
     <desc>Charset: UTF-8</desc>
     <info>
@@ -69,6 +55,64 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2019-08-28T16:09:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/Downloads/jenkins_2.192_all.deb" added="2019-08-29T04:56:13Z" modified="2019-08-29T04:56:13Z" visited="2019-08-29T04:56:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-deb"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-08-29T04:56:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/Downloads/jenkins_2.192_all/control.tar.gz" added="2019-08-29T04:56:19Z" modified="2019-08-29T05:14:14Z" visited="2019-08-29T04:56:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-08-29T05:14:14Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/Downloads/jenkins_2.192_all/data.tar.xz" added="2019-08-29T04:56:26Z" modified="2019-08-29T05:16:06Z" visited="2019-08-29T04:56:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-08-29T05:16:06Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ubuntu/Downloads/jenkins_2.192_all/debian-binary" added="2019-08-29T05:11:19Z" modified="2019-08-29T05:11:19Z" visited="2019-08-29T05:11:20Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2019-08-29T05:11:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/lib/jenkins/secret.key.not-so-secret" added="2019-08-29T05:26:49Z" modified="2019-08-29T05:26:49Z" visited="2019-08-29T05:26:50Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2019-08-29T05:26:49Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -367,3 +367,621 @@ ATTENTION: default value of option force_s3tc_enable overridden by environment.
 Opening in existing browser session.
 
 (xfce4-terminal:5483): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:5791): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[1918]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1918]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1918]: SIGTERM received - shutting down ...
+gpg-agent[1918]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+Xsession: X session started for ubuntu at Thu Aug 29 04:50:50 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1944]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1945]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1937): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1937): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:10, Does it exist? Permissions issue?
+process 1958: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:1957): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1947): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:1956): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Xsession: X session started for ubuntu at Thu Aug 29 04:51:19 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :11.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2156]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:2149): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2149): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:11, Does it exist? Permissions issue?
+
+(xfwm4:2159): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2170: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:2169): nm-applet-WARNING **: GDBus.Error:org.freedesktop.NetworkManager.AgentManager.PermissionDenied: An agent with this ID is already registered for this user.
+
+(nm-applet:2169): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2364:2364:0829/045135.615760:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2318:2318:0829/045135.615760:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2303:2328:0829/045137.035006:ERROR:browser_process_sub_thread.cc(217)] Waited 8 ms for network service
+Opening in existing browser session.
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_app_install on apt: GDBus.Error:org.freedesktop.PolicyKit.Error.Failed: ('system-bus-name', {'name': ':1.40'}): org.debian.apt.install-file
+
+(gnome-software:3096): Gs-WARNING **: not saving error for (null): GDBus.Error:org.freedesktop.PolicyKit.Error.Failed: ('system-bus-name', {'name': ':1.40'}): org.debian.apt.install-file
+
+(gnome-software:3096): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_app_install on apt: GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): Gs-WARNING **: not saving error for (null): GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_app_install on apt: GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): Gs-WARNING **: not saving error for (null): GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): GLib-CRITICAL **: g_variant_new_string: assertion 'string != NULL' failed
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_app_install on apt: GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): Gs-WARNING **: not saving error for (null): GDBus.Error:org.debian.apt.TransactionFailed: error-no-package: Package jenkins isn't available
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_object_get_array_member: assertion 'node != NULL' failed
+
+(gnome-software:3096): Json-CRITICAL **: json_array_get_length: assertion 'array != NULL' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+
+(xfce4-terminal:3397): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3397): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3397): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[2270:2270:0829/050534.912156:ERROR:textfield.cc(1773)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+
+(xfce4-terminal:3397): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_app_install on apt: GDBus.Error:org.freedesktop.PolicyKit.Error.Failed: ('system-bus-name', {'name': ':1.40'}): org.debian.apt.install-file
+
+(gnome-software:3096): Gs-WARNING **: not saving error for (null): GDBus.Error:org.freedesktop.PolicyKit.Error.Failed: ('system-bus-name', {'name': ':1.40'}): org.debian.apt.install-file
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[2338:2345:0829/052850.323994:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2338:2345:0829/052850.326923:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2338:2345:0829/052850.347949:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2338:2345:0829/052850.348034:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -107
+[2270:2270:0829/060854.170066:ERROR:settings_utils_linux.cc(54)] Could not find XFCE network settings in $PATH
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/ubuntu/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.2.20171007-0217.xml
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://494.fwk876908140:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://494.fwk876908140:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+org.eclipse.m2e.logback.configuration: Initializing logback
+java.nio.file.NoSuchFileException: /usr/lib/jvm/java-8-openjdk-amd64/release
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.nio.file.Files.newBufferedReader(Files.java:2784)
+	at java.nio.file.Files.lines(Files.java:3744)
+	at java.nio.file.Files.lines(Files.java:3785)
+	at org.eclipse.jdt.internal.launching.StandardVMType.readReleaseVersion(StandardVMType.java:832)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getLibraryInfo(StandardVMType.java:214)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getVMVersion(StandardVMType.java:256)
+	at org.eclipse.jdt.internal.launching.Standard11xVMType.canDetectDefaultSystemLibraries(Standard11xVMType.java:98)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getJavaHomeLocation(StandardVMType.java:307)
+	at org.eclipse.jdt.internal.launching.StandardVMType.detectInstallLocation(StandardVMType.java:269)
+	at org.eclipse.jdt.launching.JavaRuntime.detectEclipseRuntime(JavaRuntime.java:2075)
+	at org.eclipse.jdt.launching.JavaRuntime.initializeVMs(JavaRuntime.java:3042)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMId(JavaRuntime.java:552)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMInstall(JavaRuntime.java:497)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.findJavaDocCommand(JavadocOptionsManager.java:1148)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.initJavadocCommandDefault(JavadocOptionsManager.java:1139)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.<init>(JavadocOptionsManager.java:175)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.init(JavadocWizard.java:435)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.openJavadocWizard(JavadocWizard.java:124)
+	at org.eclipse.jdt.internal.ui.actions.GenerateJavadocAction.run(GenerateJavadocAction.java:48)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:247)
+	at org.eclipse.ui.internal.WWinPluginAction.runWithEvent(WWinPluginAction.java:219)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4522)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4107)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+java.nio.file.NoSuchFileException: /usr/lib/jvm/java-8-openjdk-amd64/jre/release
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.nio.file.Files.newBufferedReader(Files.java:2784)
+	at java.nio.file.Files.lines(Files.java:3744)
+	at java.nio.file.Files.lines(Files.java:3785)
+	at org.eclipse.jdt.internal.launching.StandardVMType.readReleaseVersion(StandardVMType.java:832)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getLibraryInfo(StandardVMType.java:214)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getVMVersion(StandardVMType.java:256)
+	at org.eclipse.jdt.internal.launching.Standard11xVMType.canDetectDefaultSystemLibraries(Standard11xVMType.java:98)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getJavaHomeLocation(StandardVMType.java:315)
+	at org.eclipse.jdt.internal.launching.StandardVMType.detectInstallLocation(StandardVMType.java:269)
+	at org.eclipse.jdt.launching.JavaRuntime.detectEclipseRuntime(JavaRuntime.java:2075)
+	at org.eclipse.jdt.launching.JavaRuntime.initializeVMs(JavaRuntime.java:3042)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMId(JavaRuntime.java:552)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMInstall(JavaRuntime.java:497)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.findJavaDocCommand(JavadocOptionsManager.java:1148)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.initJavadocCommandDefault(JavadocOptionsManager.java:1139)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.<init>(JavadocOptionsManager.java:175)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.init(JavadocWizard.java:435)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.openJavadocWizard(JavadocWizard.java:124)
+	at org.eclipse.jdt.internal.ui.actions.GenerateJavadocAction.run(GenerateJavadocAction.java:48)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:247)
+	at org.eclipse.ui.internal.WWinPluginAction.runWithEvent(WWinPluginAction.java:219)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4522)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4107)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+java.nio.file.NoSuchFileException: /usr/lib/jvm/java-8-openjdk-amd64/release
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:384)
+	at java.nio.file.Files.newInputStream(Files.java:152)
+	at java.nio.file.Files.newBufferedReader(Files.java:2784)
+	at java.nio.file.Files.lines(Files.java:3744)
+	at java.nio.file.Files.lines(Files.java:3785)
+	at org.eclipse.jdt.internal.launching.StandardVMType.readReleaseVersion(StandardVMType.java:832)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getLibraryInfo(StandardVMType.java:214)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getDefaultLibraryLocations(StandardVMType.java:432)
+	at org.eclipse.jdt.internal.launching.StandardVMType.canDetectDefaultSystemLibraries(StandardVMType.java:242)
+	at org.eclipse.jdt.internal.launching.StandardVMType.getJavaHomeLocation(StandardVMType.java:307)
+	at org.eclipse.jdt.internal.launching.StandardVMType.detectInstallLocation(StandardVMType.java:269)
+	at org.eclipse.jdt.launching.JavaRuntime.detectEclipseRuntime(JavaRuntime.java:2075)
+	at org.eclipse.jdt.launching.JavaRuntime.initializeVMs(JavaRuntime.java:3042)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMId(JavaRuntime.java:552)
+	at org.eclipse.jdt.launching.JavaRuntime.getDefaultVMInstall(JavaRuntime.java:497)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.findJavaDocCommand(JavadocOptionsManager.java:1148)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.initJavadocCommandDefault(JavadocOptionsManager.java:1139)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocOptionsManager.<init>(JavadocOptionsManager.java:175)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.init(JavadocWizard.java:435)
+	at org.eclipse.jdt.internal.ui.javadocexport.JavadocWizard.openJavadocWizard(JavadocWizard.java:124)
+	at org.eclipse.jdt.internal.ui.actions.GenerateJavadocAction.run(GenerateJavadocAction.java:48)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:247)
+	at org.eclipse.ui.internal.WWinPluginAction.runWithEvent(WWinPluginAction.java:219)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:86)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5268)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1348)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4522)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4107)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1150)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1039)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:680)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:594)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:151)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1472)
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_refresh on fwupd: failed to update metadata: Failed to parse XML: Mismatched XML
+
+(gnome-software:3096): Gs-WARNING **: failed to call gs_plugin_refresh on apt: GDBus.Error:org.freedesktop.PolicyKit.Error.Failed: ('system-bus-name', {'name': ':1.40'}): org.debian.apt.update-cache
+
+(gnome-software:3096): Gs-WARNING **: failed to refresh the cache: no plugin could handle refresh
+[1:1:0829/065616.095822:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0829/065616.096502:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0829/065616.096723:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0829/065616.096813:ERROR:webrtc_sdp.cc(411)] Failed to parse: "a=msid: ". Reason: Missing track ID in msid attribute.
+[1:1:0829/065616.096919:ERROR:rtc_peer_connection_handler.cc(2276)] Failed to create native session description. Type: offer SDP: v=0
+o=- 7232919702739411193 2 IN IP4 127.0.0.1
+s=-
+t=0 0
+a=group:BUNDLE 0
+a=msid-semantic: WMS
+m=application 9 UDP/TLS/RTP/SAVPF 119
+c=IN IP4 0.0.0.0
+b=AS:30
+a=rtcp:9 IN IP4 0.0.0.0
+a=ice-ufrag:yTfL
+a=ice-pwd:/oBKHeVINCqADZ0kamWNN6Dn
+a=ice-options:trickle
+a=fingerprint:sha-256 0F:8E:3C:C5:19:04:BE:B6:78:20:5B:63:4D:56:B6:37:3D:CE:C7:FA:49:96:46:7F:E6:87:10:66:DA:68:EC:5F
+a=setup:actpass
+a=mid:0
+a=sendrecv
+a=msid: 
+a=rtcp-mux
+a=rtpmap:119 google-data/90000
+a=ssrc:1539614370 cname:GdwMsZ/+axGcuI7z
+a=ssrc:1539614370 msid:- 
+a=ssrc:1539614370 mslabel:-
+a=ssrc:1539614370 label:
+
+[1:1:0829/065616.096988:ERROR:rtc_peer_connection_handler.cc(1213)] Failed to parse SessionDescription. a=msid:  Missing track ID in msid attribute.
+[2338:2345:0829/065619.966535:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -215
+[2338:2345:0829/065825.140308:ERROR:ssl_client_socket_impl.cc(946)] handshake failed; returned -1, SSL error code 1, net_error -215
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+
+(xfsettingsd:1957): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+gpg-agent[1945]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1945]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1945]: SIGTERM received - shutting down ...
+gpg-agent[1945]: gpg-agent (GnuPG) 2.1.11 stopped
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+Xsession: X session started for ubuntu at Thu Aug 29 08:58:35 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2015]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2016]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2008): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2008): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2028): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2029: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2018): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2027): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Xsession: X session started for ubuntu at Thu Aug 29 08:59:06 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :11.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2243]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:2236): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2236): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:11, Does it exist? Permissions issue?
+
+(xfwm4:2246): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2257: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:2256): nm-applet-WARNING **: GDBus.Error:org.freedesktop.NetworkManager.AgentManager.PermissionDenied: An agent with this ID is already registered for this user.
+
+(nm-applet:2256): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[2459:2459:0829/085947.486811:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2458:2458:0829/085947.486813:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2405:2432:0829/085949.090738:ERROR:browser_process_sub_thread.cc(217)] Waited 35 ms for network service
+Opening in existing browser session.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Opening in existing browser session.
+
+(xfce4-terminal:2687): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+[2394:2394:0829/090537.506647:ERROR:textfield.cc(1773)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+gpg-agent[2016]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2016]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2016]: SIGTERM received - shutting down ...
+gpg-agent[2016]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :11.0.
+Xsession: X session started for ubuntu at Fri Aug 30 08:23:41 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2071]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2072]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2064): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2064): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2091): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2084: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2074): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2083): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Xsession: X session started for ubuntu at Fri Aug 30 08:24:15 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :11.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2288]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:2281): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2281): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-8-127:11, Does it exist? Permissions issue?
+
+(xfsettingsd:2297): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2291): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2302: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:2301): nm-applet-WARNING **: GDBus.Error:org.freedesktop.NetworkManager.AgentManager.PermissionDenied: An agent with this ID is already registered for this user.
+
+(nm-applet:2301): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[3005:3005:0830/083043.504677:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+(xfce4-terminal:2435): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:2435): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/ubuntu/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.8.2.20171007-0217.xml
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://494.fwk876908140:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://494.fwk876908140:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+org.eclipse.m2e.logback.configuration: Initializing logback

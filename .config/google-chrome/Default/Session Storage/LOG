@@ -1,3 +1,6 @@
-2019/08/28-15:54:51.316 af6 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/08/28-15:54:51.316 af6 Recovering log #4
-2019/08/28-15:54:51.319 af6 Reusing old log Session Storage/000004.log 
+2019/08/30-08:30:49.817 bb1 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/30-08:30:49.818 bb1 Recovering log #16
+2019/08/30-08:30:49.831 bb1 Reusing old log Session Storage/000016.log 
+2019/08/30-09:52:07.251 1bbb Level-0 table #21: started
+2019/08/30-09:52:07.255 1bbb Level-0 table #21: 16442 bytes OK
+2019/08/30-09:52:07.257 1bbb Delete type=0 #16
