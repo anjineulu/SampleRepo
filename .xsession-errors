@@ -985,3 +985,5 @@ SLF4J: Found binding in [bundleresource://494.fwk876908140:2/org/slf4j/impl/Stat
 SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
 SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
 org.eclipse.m2e.logback.configuration: Initializing logback
+
+(xfce4-terminal:2435): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
